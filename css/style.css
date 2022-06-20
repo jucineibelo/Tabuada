@@ -1,14 +1,23 @@
-* {
-    font-family: sans-serif;
-    background-color: bisque;
-    font-size: medium;
+body {
+    background-color: #E6BFB8;
+}
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8E997A;
+    text-shadow: 1px 1px 1px rgb(71, 54, 54);
+    text-align: center;
+    font-size: 200%;
 }
 
-header h1 {
-    font-size: 40px;
-    color: brown;
+.tabuada {
+    margin-top: 8%;
+    text-align: center;
 }
 
 footer {
-    color: rgb(19, 60, 138);
+    text-align: center;
+    color: #8E997A;
+    font-style: italic;
+    font-size: large;
+    text-shadow: 1px 1px 1px rgb(71, 54, 54);
 }
